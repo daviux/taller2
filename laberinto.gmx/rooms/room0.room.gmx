@@ -420,6 +420,7 @@
     <instance objName="enemigs" x="128" y="384" name="inst_4B25679B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="vida" x="32" y="32" name="inst_A6459285" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="enemys_kill" x="64" y="32" name="inst_D1A69AF6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="object17" x="96" y="32" name="inst_85B2AFB7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>

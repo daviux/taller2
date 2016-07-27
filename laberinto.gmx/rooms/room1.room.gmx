@@ -370,6 +370,11 @@
     <instance objName="object6" x="800" y="96" name="inst_FC1AF2CA" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="enemigs2" x="576" y="128" name="inst_66C2FB19" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="enemigs2" x="512" y="128" name="inst_349F2BD6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="object0" x="32" y="32" name="inst_0C2D6147" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="control" x="96" y="640" name="inst_8DE643E7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="vida" x="96" y="640" name="inst_85D1DE19" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="vida" x="96" y="608" name="inst_7D01816C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="object17" x="128" y="32" name="inst_D6044634" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>

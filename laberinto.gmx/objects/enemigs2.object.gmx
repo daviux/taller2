@@ -26,6 +26,10 @@
           <argument>
             <kind>1</kind>
             <string>vspeed = 4;
+dir = -1;
+movespeed = 3;
+hsp = 0;
+vsp = 0;
 </string>
           </argument>
         </arguments>
@@ -48,7 +52,22 @@
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>if (!place_empty(x,y)){vspeed = -vspeed}
+            <string>hsp = dir * movespeed;
+
+if (place_meeting(y+hsp,x,object1))
+{
+    while(!place_meeting(y+sign(hsp),x,object1))
+    {
+        y += hsp;
+    }
+    hsp = 0;
+    
+    dir *= -1;
+}
+y += hsp;
+
+
+// (place_empty(x,y)){vspeed = -vspeed}
 </string>
           </argument>
         </arguments>

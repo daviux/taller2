@@ -4,20 +4,30 @@
     <Config>Configs\Default</Config>
   </Configs>
   <NewExtensions/>
-  <sounds name="sound"/>
+  <sounds name="sound">
+    <sound>sound\sound0</sound>
+  </sounds>
   <sprites name="sprites">
     <sprite>sprites\personaje</sprite>
     <sprite>sprites\spr_wall</sprite>
     <sprite>sprites\spr_llave</sprite>
+    <sprite>sprites\spr_llave2</sprite>
+    <sprite>sprites\final</sprite>
     <sprite>sprites\enemigo</sprite>
     <sprite>sprites\spr_bala</sprite>
     <sprite>sprites\spr_punto</sprite>
     <sprite>sprites\barra_roja</sprite>
     <sprite>sprites\barra_verde</sprite>
     <sprite>sprites\barra_vida</sprite>
+    <sprite>sprites\sprite11</sprite>
+    <sprite>sprites\sprite12</sprite>
+    <sprite>sprites\sprite13</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\background0</background>
+    <background>background\background1</background>
+    <background>background\background2</background>
+    <background>background\background3</background>
   </backgrounds>
   <paths name="paths"/>
   <objects name="objects">
@@ -32,11 +42,22 @@
     <object>objects\object8</object>
     <object>objects\enemys_kill</object>
     <object>objects\vida</object>
+    <object>objects\obj_llave2</object>
+    <object>objects\control</object>
+    <object>objects\object13</object>
+    <object>objects\object14</object>
+    <object>objects\object15</object>
+    <object>objects\object16</object>
+    <object>objects\object17</object>
   </objects>
   <rooms name="rooms">
-    <room>rooms\room0</room>
+    <room>rooms\room6</room>
     <room>rooms\room1</room>
+    <room>rooms\room0</room>
+    <room>rooms\room3</room>
     <room>rooms\room2</room>
+    <room>rooms\room4</room>
+    <room>rooms\room5</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>
