@@ -20,11 +20,14 @@
     <sprite>sprites\spr_enemy2</sprite>
     <sprite>sprites\spr_enemy3</sprite>
     <sprite>sprites\spr_enemy4</sprite>
+    <sprite>sprites\horizontal_</sprite>
     <sprite>sprites\spr_bullet</sprite>
     <sprite>sprites\spr_explosion1</sprite>
     <sprite>sprites\spr_explosion2</sprite>
     <sprite>sprites\spr_enemybullet1</sprite>
     <sprite>sprites\spr_enemybullet2</sprite>
+    <sprite>sprites\spr_power_up</sprite>
+    <sprite>sprites\sprite17</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\back_water</background>
@@ -38,14 +41,17 @@
     <object>objects\obj_island3</object>
     <object>objects\obj_enemy1</object>
     <object>objects\obj_enemy2</object>
-    <object>objects\obj_enemy3</object>
+    <object>objects\</object>
     <object>objects\obj_enemy4</object>
     <object>objects\obj_bullet</object>
+    <object>objects\obj_bullet1</object>
     <object>objects\obj_explosion1</object>
     <object>objects\obj_explosion2</object>
     <object>objects\obj_enenybullet1</object>
     <object>objects\obj_enemybullet2</object>
     <object>objects\objeto_temblor</object>
+    <object>objects\object15</object>
+    <object>objects\obj_horizontal</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\rm_main</room>
